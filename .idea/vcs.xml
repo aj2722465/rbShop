@@ -8,8 +8,8 @@
     </option>
   </component>
   <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/redboyclient" vcs="Git" />
-    <mapping directory="C:/Program Files (x86)/Git/bin" vcs="Git" />
   </component>
 </project>
